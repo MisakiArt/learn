@@ -1,3 +1,8 @@
 sadsadjasfljakfjasfj
+<<<<<<< HEAD
 sadasdsadasdasdasd
 
+=======
+asdasdasdqawdqwdqwdqw
+asdadasdad
+>>>>>>> dev
